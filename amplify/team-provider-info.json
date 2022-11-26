@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-apploginnext-dev-65940-authRole",
+      "UnauthRoleArn": "arn:aws:iam::378344169585:role/amplify-apploginnext-dev-65940-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::378344169585:role/amplify-apploginnext-dev-65940-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-apploginnext-dev-65940-deployment",
+      "UnauthRoleName": "amplify-apploginnext-dev-65940-unauthRole",
+      "StackName": "amplify-apploginnext-dev-65940",
+      "StackId": "arn:aws:cloudformation:us-east-1:378344169585:stack/amplify-apploginnext-dev-65940/6ececb30-6d79-11ed-8779-12d2cdca66dd",
+      "AmplifyAppId": "d1nibhb9wokkhw"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1nibhb9wokkhw",
+          "type": "cicd"
+        }
+      },
+      "auth": {
+        "apploginnexte01a27c4": {}
+      }
+    }
+  }
+}
